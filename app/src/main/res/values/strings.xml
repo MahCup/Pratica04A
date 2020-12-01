@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">praticaBafometro</string>
+    <string name="enviar_dados">Enviar Dados</string>
+    <string name="peso">Peso:</string>
+    <string name="sexo_m_f">Sexo (m/f):</string>
+    <string name="n_de_copos">Nº de copos:</string>
+    <string name="est_de_jejum_s_n">Está de jejum? (s/n)</string>
+</resources>
